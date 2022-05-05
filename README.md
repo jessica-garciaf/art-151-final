@@ -1,2 +1,4 @@
-# art-151-final
-an attempt to replicate Cameronsworld.net
+# art-151-final -- Jessica Garcia
+This was an attempt to replicate https://www.cameronsworld.net/, genuinly enjoyed all the aesthetics that the inspired website brought from all its sections. There is so much going on in that website that you can just interpate it your own way. Of course the purpose of the website was to give one last horrah to geocities when it closed down which allowed about anyone and really anything to make a website. Super retro, love it.
+Given that, I tried to attempt to make my own version of that. You have the pink section which really resontates with the love I have for the color pink and all of its girly aspects to it. You have the purple section where it is full on techy and just computers everyone since I am a CS major who is most of the time on her laptop. Last but not least, you have a side of me that is often hidden which is why it is last. I love astrology and the beatiful artwork that comes from tarot cards too. 
+Huge thanks to https://gifcities.org/ for providing 95% of the gifs, if not all with the help of pngs, jpgs that were found off google. 
